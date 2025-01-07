@@ -34,7 +34,7 @@ Also, i like games.
     
 ___
 
-### 🧰Tech and tools
+### 🧰 Tech and tools
 
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
@@ -52,12 +52,14 @@ ___
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+
 <p align="center">
-  <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
-  <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-  <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
+  <img width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+  <img width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </p>
+
 <br><br>
 
 #
@@ -70,7 +72,7 @@ ___
 #
 
 <details>
-  <summary><h3>👨‍💻About me</h3></summary>
+  <summary><h3>👨‍💻 About me</h3></summary>
   I always had the passion for everything tech related but it was all on a superficial level, i always had the dream to make my own games, to create my own OS, to basically create my own digital world and perhaps, to be someone that makes huge contributions for the tech world. I enrolled in the Software Engineering course at "Universidade Metodista de Angola" to porsue my dreams but i was caught of guard by the challenges i had to face but they weren't enough to make me give up on my dreams. Along the way, i've learned a lot of concepts and tools, all this learning phase gave me new desires for my nerd self, i developed the passion for low level programming, i even had the pleasure to make my own drone from scratch and programmed it, i developed the passion for graphics programming which now i have this desire of contributing to a lot of graphics related projects for Linux and of course, web development, which is my main focus.My favorite languages are C and Java, C was my first "love at first keystroke" and i haven't abandoned the language ever since, while Java is a language i have a love-hate relationship with but i've learned to love it and is now my main language for backend/desktop development. I am an "artist", i like making music, i like drawing, i like editing videos and i like programming (yes, i am one of those that considers programming a type of art), they all culminate from my passion of games. I am always taking action because i have this burning desire to fulfil all my goals and dreams.
 </details>
 
