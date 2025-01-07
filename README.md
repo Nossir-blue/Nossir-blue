@@ -26,7 +26,7 @@ Also, i like games.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roger-cruz-a0598b253/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
-  <a href="https://discord.com/users/504040684760596500" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png"/></a>
+  <a href="https://discord.com/users/504040684760596500" alt="Discord" title="Discord"><img width="32px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png"/></a>
   <a href="https://www.instagram.com/___nossir___/"><img width="32px" alt="Instagram" title="instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png"></a>
   <a href="https://x.com/nossir_"><img width="32px" alt="twitter" title="twitter" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png"</a>
 </p>
