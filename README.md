@@ -59,8 +59,6 @@ ___
 
 <br>
 
-#
-
 ### 📊 Stats
           
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nossir-blue&show_icons=true&theme=transparent" alt="readmeStats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nossir-blue&layout=donut&theme=transparent" alt="topLang">
