@@ -21,7 +21,7 @@ Also, i like games.
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=[+Never+back+down,+ +never+give+up]" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=[Never+back+down,+ +never+give+up]" />
   
 </p>
 
