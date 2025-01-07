@@ -17,7 +17,6 @@ Also, i like games.
   <a href="https://github.com/Nossir-blue?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nossir-blue?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <img src="https://custom-icon-badges.demolab.com/badge/Luanda-Angola-blue?style=for-the-badge&logo=location&logoColor=white">
-  <img src="https://komarev.com/ghpvc/?username=Nossir-blue&style=for-the-badge&label=Views&color=b00b69&Color=purple">
 </p>
 
 <p align="center">
